@@ -1,5 +1,5 @@
 ## Hi there 👋
-- I am a Computer Science master's graduate from TUM.
+- I am a Computer Science master's graduate from TUM with 3+ years of software engineering experience.
 - I am deeply interested in Machine/Deep Learning, Autonomous Driving, 3D Computer Vision, LLMs, VLMs and AI in general.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baranekinozdemir@gmail.com)
